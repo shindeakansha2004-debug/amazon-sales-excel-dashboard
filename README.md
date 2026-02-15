@@ -4,6 +4,7 @@ End-to-end Excel project showcasing data cleaning, pivot analysis, and interacti
 📊 Amazon Retail Sales Dashboard (Excel)
 🔍 Project Overview
 🚀 Built an Excel dashboard that transforms raw Amazon sales data into interactive KPIs, trends, and insights for business decision-making.
+
 This project focuses on analyzing Amazon retail sales data and converting raw transactional data into a clean, interactive, and insight-driven Excel dashboard.
 The objective was to understand sales performance, customer behavior, and revenue trends using Excel-based analytics.
 
