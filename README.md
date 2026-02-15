@@ -67,6 +67,19 @@ Building interactive dashboards without coding
 
 Improving analytical thinking and visualization skills
 
+## 👉 How to Explore
+1. Open `Amazon Sales Dashboard.xlsx`
+2. Use slicers to filter by:
+   - Date
+   - Customer Gender
+   - City
+   - Payment Method
+3. View charts to analyze trends and insights
+
+## Summary
+This Excel dashboard transforms raw Amazon sales data into interactive insights that help understand revenue patterns, customer behavior, and top-performing segments.
+
+
 👩‍💻 About Me
 
 I am a Data Analyst fresher actively building hands-on projects to strengthen my skills in data analysis, Excel dashboards, and business insights.
@@ -76,6 +89,11 @@ This project reflects my ability to work with real-world sales data and present 
 
 📸 Dashboard Screenshot
 🎥 Screen Recording (optional)
+
+## 📊 Amazon Sales Dashboard Preview
+
+![Dashboard Screenshot](./amazon%20image.jpg)
+
 
 📬 Feedback
 
